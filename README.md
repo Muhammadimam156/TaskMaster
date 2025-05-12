@@ -60,7 +60,7 @@ Contributions are welcome! Feel free to fork, improve, and submit a pull request
 
 ### **🎯 Try TaskMaster Now & Boost Your Productivity!**  
 
-🔗 **[Live Demo](https://github.com/Muhammadimam156/TaskMaster/)**   
+🔗 **[Live Demo]( https://muhammadimam156.github.io/TaskMaster/)**   
 
 ---
 
