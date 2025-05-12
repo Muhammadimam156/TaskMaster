@@ -35,17 +35,7 @@
 2. **Open `index.html` in your browser.**  
 3. **Start checking off tasks!**  
 
----
 
-## **📸 Screenshots**  
-
-### **Default State**  
-![TaskMaster Default View](https://via.placeholder.com/600x400/ffffff/374151?text=TaskMaster+-+No+tasks+completed)  
-
-### **All Tasks Completed**  
-![TaskMaster Completed View](https://via.placeholder.com/600x400/ffffff/16a34a?text=All+tasks+done!+🎉)  
-
----
 
 ## **🔧 Future Improvements**  
 
@@ -70,7 +60,7 @@ Contributions are welcome! Feel free to fork, improve, and submit a pull request
 
 ### **🎯 Try TaskMaster Now & Boost Your Productivity!**  
 
-🔗 **[Live Demo](#)** (Add your demo link here)  
+🔗 **[Live Demo](https://github.com/Muhammadimam156/TaskMaster/)**   
 
 ---
 
